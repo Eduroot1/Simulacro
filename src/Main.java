@@ -6,6 +6,7 @@ public class Main {
 		 * Por Eduardo Romero Otero
 		 */
 		System.out.println("Hola Mundo");
+		  
 	}
 
 }
